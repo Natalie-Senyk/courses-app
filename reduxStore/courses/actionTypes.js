@@ -1,0 +1,6 @@
+export const GET_COURSES = 'GET_COURSES';
+export const GET_COURSE = 'GET_COURSE';
+export const SAVE_COURSE = 'SAVE_COURSE';
+export const DELETE_COURSE = 'DELETE COURSE';
+export const UPDATE_COURSE = 'UPDATE_COURSE';
+export const SET_COURSES_ERROR = 'SET_COURSES_ERROR';
